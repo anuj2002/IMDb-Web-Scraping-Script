@@ -22,7 +22,7 @@ To use the script:
 3. Run the script using the following command:
 
 ```bash
-python imdb_scraping_script.py
+python movies_scraping.py
 ```
 
 The script will open a Chrome browser, navigate to IMDb, perform an advanced search, and scrape movie details.
