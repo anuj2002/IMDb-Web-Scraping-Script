@@ -11,7 +11,7 @@ Copy code
 
 To use this script, you need the following prerequisites:
 
-- Python 3.x
+- Python 3.10
 - Selenium
 - Chrome WebDriver
 
@@ -56,9 +56,6 @@ The scraped data is stored in a CSV file named "movie.csv" in the same directory
 
 Limitations
 This script is designed for educational and research purposes and may be subject to IMDb's terms of service.
-
-License
-This project is licensed under the MIT License. For more details, see the LICENSE file.
 
 Acknowledgments
 Selenium
