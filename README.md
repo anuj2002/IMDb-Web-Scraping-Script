@@ -1,11 +1,8 @@
-
-I understand that you want to copy the entire README content that I provided earlier. Here it is:
-
-markdown
-Copy code
 # IMDb Web Scraping Script
 
-**Description:** This Python script is designed to scrape movie information from IMDb using the Selenium library. It allows you to perform an advanced search on IMDb and scrape details of movies matching your criteria.
+## Description
+
+This Python script is designed to scrape movie information from IMDb using the Selenium library. It allows you to perform an advanced search on IMDb and scrape details of movies matching your criteria.
 
 ## Prerequisites
 
@@ -17,8 +14,9 @@ To use this script, you need the following prerequisites:
 
 You can install the required packages using the following command:
 
-bash
+```bash
 pip install selenium
+```
 Additionally, you'll need to download the Chrome WebDriver and provide its path in the script.
 
 Usage
